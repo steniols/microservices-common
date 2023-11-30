@@ -1,0 +1,19 @@
+{
+    "name": "steniols/microservices-common",
+    "description": "Package Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Steniols\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stenio L. de Souza",
+            "email": "steniols@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
