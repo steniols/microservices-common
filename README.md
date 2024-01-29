@@ -2,5 +2,5 @@
 
 Install
 ```
-composer require stenios/microservices-common
+composer require steniols/microservices-common
 ```
